@@ -45,7 +45,7 @@ I am a postdoctoral researcher at Computer Vision Research Team, National Instit
 -	“Incorporating Depth into Visual Question Answering”, Yue Qiu, Hirokatsu Kataoka, Ryota Suzuki,  CVPR 2019 Visual Question Answering and Dialog Workshop (CVPRW VQA), 2019.
 
 -	“Visual Question Answering with RGB-D Images”, Yue Qiu, Hirokatsu Kataoka,  CVPR 2019 Women in Computer Vision Workshop (CVPRW WiCV), 2019.
--	
+
 -	“Image Generation Associated With Music Data”, Yue Qiu, Hirokatsu Kataoka, CVPR 2018 Sight and Sound Workshop (CVPRW), 2018.
 
 - “AI-Based VR Earthquake Simulator”, Ryota Suzuki, Ryoki Iitoi, Yue Qiu, Kenji Iwata, Yutaka Satoh, 20th International Conference on Human-computer Interaction (HCI), pp. 213222, 2018.
