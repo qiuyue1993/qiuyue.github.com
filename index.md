@@ -21,9 +21,9 @@ I am a postdoctoral researcher at Computer Vision Research Team, National Instit
 ### Education
 - **Apr, 2018 –- Mar, 2021** Ph.D., Department of Computer Science, University of Tsukuba (Japan)
 
-- **May, 2017 -- Mar, 2021** MS, Department of Computer Science, University of Tsukuba (Japan)
+- **Apr, 2016 -- Mar, 2018** MS, Department of Computer Science, University of Tsukuba (Japan)
 
-- **May, 2017 -- Mar, 2021** B.S., Department of Software Engineering, HeFei University of Technology (China)            
+- **Sep, 2009 -- Jun, 2014** B.S., Department of Software Engineering, HeFei University of Technology (China)            
 
 
 ---
