@@ -67,3 +67,4 @@ I am a postdoctoral researcher at Computer Vision Research Team, National Instit
 
 -	Sensing and recognition of typical indoor family scenes using an RGB-D camera, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Hirokatsu Kataoka, CVPR 2017 Women in Computer Vision Workshop (CVPRW WiCV), 2017.
 
+
