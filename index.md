@@ -28,8 +28,8 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 - **Sep, 2009 -- Jun, 2014** B.S., Department of Software Engineering, HeFei University of Technology (China)      
 
 ---
-### PhD Thesis
-- Research on Evaluation and Improvement of Image Recognition Performance Focusing on Observation Viewpoint, Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2021.04 (Superviser：Yutaka Satoh). [[Thesis Paper]](https://irdb.nii.ac.jp/00843/0005034213)
+### Ph.D. Thesis
+- Research on Evaluation and Improvement of Image Recognition Performance Focusing on Observation Viewpoint, Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2021.04 (Advisor: Yutaka Satoh). [[Thesis Paper]](https://irdb.nii.ac.jp/00843/0005034213)
 
 ---
 ### Reviewer for Conferences
