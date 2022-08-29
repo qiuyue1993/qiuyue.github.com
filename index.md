@@ -32,7 +32,6 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 ### PhD Thesis
 - Research on Evaluation and Improvement of Image Recognition Performance Focusing on Observation Viewpoint, Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2021.04 (Superviser：Yutaka Satoh). [[Thesis Paper]](https://irdb.nii.ac.jp/00843/0005034213)
 
-
 ---
 ### Reviewer for Conferences
 - WACV2023, NeurIPS2022, ECCV2022, CVPR2022, IROS2022, ICPR2022, BMVC2021
