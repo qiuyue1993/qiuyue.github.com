@@ -29,11 +29,19 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 - **Sep, 2009 -- Jun, 2014** B.S., Department of Software Engineering, HeFei University of Technology (China)      
 
 ---
+### PhD Thesis
+- 
+
+
+---
 ### Reviewer for Conferences
 - WACV2023, NeurIPS2022, ECCV2022, CVPR2022, IROS2022, ICPR2022, BMVC2021
 
 ---
 ### Selected Publications
+
+#### Books
+- Vision Transformer入門 (Computer Vision Library), 山本 晋太郎, 徳永 匡臣, 箕浦 大晃, <u>邱玥(QIU YUE)</u>, 品川 政太朗, 片岡 裕雄, 技術評論社 (September 17, 2022).
 
 #### Journal Articles
 
