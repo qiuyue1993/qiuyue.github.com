@@ -40,7 +40,6 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 - Multi-View Visual Question Answering with Active Viewpoint Selection, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka. Sensors, vol.20, 8, pp.2281-2294, 2020.04. [[Paper]](https://www.mdpi.com/1424-8220/20/8/2281)
 
 
-
 #### Peer Reviewed Conference Papers
 
 - Scene Change Captioning in Real Scenarios, <u>Yue Qiu</u>, Kodai Nakashima, Yutaka Satoh, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, 24nd International Conference on Humancomputer Interaction (HCI), pp. 405-419, 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-05643-7_26)
