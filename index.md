@@ -41,7 +41,7 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 
 
 #### Peer Reviewed Conference Papers
-- 
+- Multi-object Multi-step Visual Transformation, <u>Yue Qiu</u>, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka, ECCV 2022 Causality in Vision Workshop (ECCVW), 2022.
 
 - 3D Change Localization and Captioning from Dynamic Scans of Indoor Scenes, <u>Yue Qiu</u>, Shintaro Yamamoto, Ryosuke Yamada, Ryota Suzuki, Hirokatsu Kataoka, Kenji Iwata, Yutaka Satoh, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023, (accepted).
 
