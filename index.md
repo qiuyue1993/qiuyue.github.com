@@ -26,7 +26,11 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 
 - **Apr, 2016 -- Mar, 2018** MS, Department of Computer Science, University of Tsukuba (Japan)
 
-- **Sep, 2009 -- Jun, 2014** B.S., Department of Software Engineering, HeFei University of Technology (China)            
+- **Sep, 2009 -- Jun, 2014** B.S., Department of Software Engineering, HeFei University of Technology (China)      
+
+---
+### Reviewer
+- Reviewer: WACV2023, NeurIPS2022, ECCV2022, CVPR2022, IROS2022, ICPR2022, BMVC2021
 ---
 ### Selected Publications
 
@@ -73,4 +77,3 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 - Fashion Culture Database: Construction of Database for World-wide Fashion Analysis, Kaori Abe, Munekata Minoguchi, Teppei Suzuki, Tomoyuki Suzuki, Naofumi Akimoto, <u>Yue Qiu</u>, Ryota Suzuki, Kenji Iwata, Yutaka Satoh, Hirokatsu Kataoka, 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), pp.1721-1726, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8581148?denied=)
 
 -	Sensing and recognition of typical indoor family scenes using an RGB-D camera, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Hirokatsu Kataoka, CVPR 2017 Women in Computer Vision Workshop (CVPRW WiCV), 2017.
-
