@@ -41,7 +41,7 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 
 
 #### Peer Reviewed Conference Papers
-- Multi-object Multi-step Visual Transformation, <u>Yue Qiu</u>, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka, ECCV 2022 Causality in Vision Workshop (ECCVW), 2022.
+- Multi-object Multi-step Visual Transformation, <u>Yue Qiu</u>, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka, ECCV 2022 Causality in Vision Workshop (ECCVW CIV), 2022.
 
 - 3D Change Localization and Captioning from Dynamic Scans of Indoor Scenes, <u>Yue Qiu</u>, Shintaro Yamamoto, Ryosuke Yamada, Ryota Suzuki, Hirokatsu Kataoka, Kenji Iwata, Yutaka Satoh, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023, (accepted).
 
@@ -74,5 +74,4 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 - Fashion Culture Database: Construction of Database for World-wide Fashion Analysis, Kaori Abe, Munekata Minoguchi, Teppei Suzuki, Tomoyuki Suzuki, Naofumi Akimoto, <u>Yue Qiu</u>, Ryota Suzuki, Kenji Iwata, Yutaka Satoh, Hirokatsu Kataoka, 15th International Conference on Control, Automation, Robotics and Vision (ICARCV), pp.1721-1726, 2018. [[Paper]](https://ieeexplore.ieee.org/document/8581148?denied=)
 
 -	Sensing and recognition of typical indoor family scenes using an RGB-D camera, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Hirokatsu Kataoka, CVPR 2017 Women in Computer Vision Workshop (CVPRW WiCV), 2017.
-
 
