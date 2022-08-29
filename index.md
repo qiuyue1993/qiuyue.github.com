@@ -27,7 +27,6 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 - **Apr, 2016 -- Mar, 2018** MS, Department of Computer Science, University of Tsukuba (Japan)
 
 - **Sep, 2009 -- Jun, 2014** B.S., Department of Software Engineering, HeFei University of Technology (China)            
-
 ---
 ### Selected Publications
 
