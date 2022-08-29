@@ -45,6 +45,8 @@ I am a researcher at [Computer Vision Research Team, National Institute of Advan
 
 - Scene Change Captioning in Real Scenarios, <u>Yue Qiu</u>, Kodai Nakashima, Yutaka Satoh, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, 24nd International Conference on Humancomputer Interaction (HCI), pp. 405-419, 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-05643-7_26)
 
+- Home Action Genome Challenge: Task 2, Kensho Hara, Yasufumi Kawano, Yoshiki Nagasaki, Hirokatsu Kataoka, <u>Yue Qiu</u>, International Challenge on Activity Recognition (ActivityNet), CVPR 2021 Workshop, Home Action Genome Challenge: Task 2, [[Slide]](https://homeactiongenome.org/assets/img/3rd/HomageChallenge_Task2_ThirdPlace_AIST&DENSO.pdf)
+
 - Describing and Localizing Multiple Changes with Transformers, <u>Yue Qiu</u>, Shintaro Yamamoto, Kodai Nakashima, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh, International Conference on Computer Vision (ICCV), 2021. [[Project page]](https://cvpaperchallenge.github.io/Describing-and-Localizing-Multiple-Change-with-Transformers/)
 
 - 3D-Aware Scene Change Captioning From Multiview Images, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka, International Conference on Intelligent Robots and Systems (IROS), 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9120195)
