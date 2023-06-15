@@ -54,6 +54,8 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 
 - Graph Representation for Order-Aware Visual Transformation, <u>Yue Qiu</u>, Yanjun Sun, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_Graph_Representation_for_Order-Aware_Visual_Transformation_CVPR_2023_paper.html)
 
+- Question Generation for Uncertainty Elimination of Referring Expression in 3D Environment, Fumiya Matsuzawa, <u>Yue Qiu</u>, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh, IEEE International Conference on Robotics and Automation (ICRA), 2023. 
+
 - 3D Change Localization and Captioning from Dynamic Scans of Indoor Scenes, <u>Yue Qiu</u>, Shintaro Yamamoto, Ryosuke Yamada, Ryota Suzuki, Hirokatsu Kataoka, Kenji Iwata, Yutaka Satoh, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Qiu_3D_Change_Localization_and_Captioning_From_Dynamic_Scans_of_Indoor_WACV_2023_paper.html)
 
 - VirtualHome Action Genome: A Simulated Spatio-Temporal Scene Graph Dataset with Consistent Relationship Labels, <u>Yue Qiu</u>, Yoshiki Nagasaki, Kensho Hara, Hirokatsu Kataoka, Ryota Suzuki, Kenji Iwata, Yutaka Satoh, IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023. [[Paper]](https://openaccess.thecvf.com/content/WACV2023/html/Qiu_VirtualHome_Action_Genome_A_Simulated_Spatio-Temporal_Scene_Graph_Dataset_With_WACV_2023_paper.html)
