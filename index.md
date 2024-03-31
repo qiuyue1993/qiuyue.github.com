@@ -54,7 +54,6 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 
 
 #### Peer Reviewed Conference Papers
-
 - The STVchrono Dataset: Towards Continuous Change Recognition in Time, Yanjun Sun*, <u>Yue Qiu</u>*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (accepted). (*equal contribution)
 
 - Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation, Yanjun Sun, <u>Yue Qiu</u>, Yoshimitsu Aoki, Hirokatsu Kataoka; IEEE International Conference on Robotics and Automation (ICRA), 2024. (accepted) 
