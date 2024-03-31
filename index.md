@@ -33,7 +33,7 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 
 ---
 ### Reviewer for Conferences
-- ICCV2023, WACV2023, NeurIPS2022, ECCV2022, CVPR2022, IROS2022, ICPR2022, BMVC2021
+- CVPR2024, ICCV2023, WACV2023, NeurIPS2022, ECCV2022, CVPR2022, IROS2022, ICPR2022, BMVC2021
 
 ---
 ### Selected Publications
@@ -42,6 +42,9 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 - Vision Transformer入門 (Computer Vision Library), 山本 晋太郎, 徳永 匡臣, 箕浦 大晃, <u>邱玥(QIU YUE)</u>, 品川 政太朗, 片岡 裕雄, 技術評論社 (September 17, 2022).
 
 #### Journal Articles
+- TransFusionOdom: Transformer-based LiDAR-Inertial Fusion Odometry Estimation, Leyuan Sun, Guanqun Ding, <u>Yue Qiu</u>, Yusuke Yoshiyasu, Fumio Kanehiro. IEEE Sensors Journal, 2023.08. [[Paper]](https://ieeexplore.ieee.org/document/10214516)
+
+- Outdoor Vision-and-Language Navigation Needs Object-Level Alignment, Yanjun Sun, <u>Yue Qiu</u>, Yoshimitsu Aoi, Hirokatsu Kataoka Sensors, 23(13), 6028, 2023.06. [[Paper]](https://www.mdpi.com/1424-8220/23/13/6028)
 
 - Indoor Scene Change Captioning Based on Multimodality Data, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka. Sensors, vol.20, 17, pp.4761-4778, 2020.08. [[Paper]](https://www.mdpi.com/1424-8220/20/17/4761)
 
@@ -51,6 +54,8 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 
 
 #### Peer Reviewed Conference Papers
+
+- 
 
 - Graph Representation for Order-Aware Visual Transformation, <u>Yue Qiu</u>, Yanjun Sun, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_Graph_Representation_for_Order-Aware_Visual_Transformation_CVPR_2023_paper.html)
 
