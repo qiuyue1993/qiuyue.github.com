@@ -52,8 +52,6 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 
 - Multi-View Visual Question Answering with Active Viewpoint Selection, <u>Yue Qiu</u>, Yutaka Satoh, Ryota Suzuki, Kenji Iwata, Hirokatsu Kataoka. Sensors, vol.20, 8, pp.2281-2294, 2020.04. [[Paper]](https://www.mdpi.com/1424-8220/20/8/2281)
 
-
-
 #### Peer Reviewed Conference Papers
 - The STVchrono Dataset: Towards Continuous Change Recognition in Time, Yanjun Sun\*, <u>Yue Qiu</u>\*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (accepted) (*equal contribution)
 
