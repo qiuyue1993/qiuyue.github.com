@@ -55,9 +55,15 @@ I am a researcher at Computer Vision Research Team, National Institute of Advanc
 
 #### Peer Reviewed Conference Papers
 
-- 
+- The STVchrono Dataset: Towards Continuous Change Recognition in Time, Yanjun Sun*, <u>Yue Qiu</u>*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024 (accepted). (*equal contribution)
+
+- Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation, Yanjun Sun, <u>Yue Qiu</u>, Yoshimitsu Aoki, Hirokatsu Kataoka; IEEE International Conference on Robotics and Automation (ICRA), 2024. (accepted) 
 
 - Graph Representation for Order-Aware Visual Transformation, <u>Yue Qiu</u>, Yanjun Sun, Fumiya Matsuzawa, Kenji Iwata, Hirokatsu Kataoka; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2023. [[Paper]](https://openaccess.thecvf.com/content/CVPR2023/html/Qiu_Graph_Representation_for_Order-Aware_Visual_Transformation_CVPR_2023_paper.html)
+
+- Question Generation to Disambiguate Referring Expressions in 3D Environment, Fumiya Matsuzawa, Ryo Nakamura, Kodai Nakashima, <u>Yue Qiu</u>, Hirokatsu Kataoka, Yutaka Satoh; CVPR 2023 Embodied AI workshop, 2023. [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JmO9Tn0AAAAJ&citation_for_view=JmO9Tn0AAAAJ:hqOjcs7Dif8C)
+
+- Boosting Outdoor Vision-and-Language Navigation with On-the-route Objects, Yanjun Sun, <u>Yue Qiu</u>, Yoshimitsu Aoki, Hirokatsu Kataoka; CVPR 2023 Embodied AI workshop, 2023. [[Paper]](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=JmO9Tn0AAAAJ&citation_for_view=JmO9Tn0AAAAJ:UebtZRa9Y70C)
 
 - Question Generation for Uncertainty Elimination of Referring Expression in 3D Environment, Fumiya Matsuzawa, <u>Yue Qiu</u>, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh, IEEE International Conference on Robotics and Automation (ICRA), 2023. 
 
