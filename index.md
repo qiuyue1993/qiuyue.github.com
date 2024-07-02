@@ -11,7 +11,6 @@
 
 I am a researcher with the Computer Vision Research Team at the National Institute of Advanced Industrial Science and Technology (AIST) [[site]](https://www.airc.aist.go.jp/cvrt/). My research interests include Computer Vision, Vision and Language, and 3D Vision. I am passionate about developing AI systems that can perceive the world and think similarly to humans, with a focus on interpretability.
 
-
 In addition to my research, I have a strong enthusiasm for language learning. I am a native Chinese speaker, proficient in Japanese and English for communication and academic writing. I can engage in casual conversations in French (DELF B1) and Italian (CELI A2), and I am a beginner learner of Arabic.
 
 ---
