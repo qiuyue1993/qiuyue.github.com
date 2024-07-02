@@ -62,7 +62,7 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 
 - Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, Mariia Khan, <u>Yue Qiu</u>, Yuren Cong, Bodo Rosenhahn, David Suter, Jumana Abu-Khalaf, International Conference on Intelligent Robots and Systems (IROS), 2024. (accepted)
 
-- The STVchrono Dataset: Towards Continuous Change Recognition in Time, Yanjun Sun\*, <u>Yue Qiu</u>\*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (*equal contribution)
+- The STVchrono Dataset: Towards Continuous Change Recognition in Time, Yanjun Sun\*, <u>Yue Qiu</u>\*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (*equal contribution) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.html)
 
 - Guided by the Way: The Role of On-the-route Objects and Scene Text in Enhancing Outdoor Navigation, Yanjun Sun, <u>Yue Qiu</u>, Yoshimitsu Aoki, Hirokatsu Kataoka; IEEE International Conference on Robotics and Automation (ICRA), 2024. (accepted) 
 
