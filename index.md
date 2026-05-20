@@ -16,7 +16,7 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 ---
 ### Research Internship
 
-I am currently looking for motivated research interns to work on topics related to computer vision, vision-and-language, and 3D scene understanding. Potential topics include scene change understanding, multi-view and 3D visual reasoning, visual question answering, vision-and-language navigation, and spatio-temporal visual understanding.
+I am currently looking for motivated research interns to work with me on-site at the AIST Tsukuba Center in Japan on topics related to computer vision, vision-and-language, and 3D scene understanding. Potential topics include scene change understanding, multi-view and 3D visual reasoning, visual question answering, vision-and-language navigation, and spatio-temporal visual understanding.
 
 If you are interested, please feel free to contact me by email with your CV, research interests, and a brief description of your previous research or project experience.
 
