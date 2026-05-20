@@ -20,6 +20,7 @@ I am currently looking for motivated research interns to work on topics related 
 
 If you are interested, please feel free to contact me by email with your CV, research interests, and a brief description of your previous research or project experience.
 
+
 ---
 ### Work Experience
 - **Oct, 2025 -- present** Senior Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
