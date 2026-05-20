@@ -11,7 +11,7 @@ I am a Senior Researcher with the Computer Vision Research Team at the National 
 
 My recent work focuses on visual reasoning from multi-view, 3D, and spatio-temporal observations, including scene change understanding, visual question answering, vision-and-language navigation, and structured representations for complex visual transformations. Through this research, I aim to build AI systems that not only recognize visual patterns but also explain, compare, and reason about the world in a way that is closer to human perception and cognition.
 
-In addition to my research, I have a strong enthusiasm for language learning. I am a native Chinese speaker and proficient in Japanese and English for communication and academic writing. I can also engage in casual conversations in French (DELF B1) and Italian (CILS B1), and I am currently a beginner learner of Arabic.
+In addition to my research, I have a strong enthusiasm for language learning. I am a native Chinese speaker and proficient in English and Japanese for communication and academic writing. I can also engage in casual conversations in French (DELF B1) and Italian (CILS B1), and I am currently a beginner learner of Arabic.
 
 ---
 ### Research Internship
