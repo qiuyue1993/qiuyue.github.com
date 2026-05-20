@@ -36,9 +36,9 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 - Research on Evaluation and Improvement of Image Recognition Performance Focusing on Observation Viewpoint, Department of Computer Science, University of Tsukuba, Doctor of Engineering, 2021.04 (Advisor: Yutaka Satoh). [[Thesis Paper]](https://irdb.nii.ac.jp/00843/0005034213)
 
 ---
-### Reviewer for Conferences
-- CVPR, ICCV, ECCV, NeurIPS, BMVC, IROS, ICPR
-- ICPR Area Chair
+### Academic Service
+- **Area Chair:** ICPR
+- **Reviewer:** CVPR, ICCV, ECCV, NeurIPS, BMVC, IROS, ICPR
 
 ---
 ### Selected Publications
