@@ -9,9 +9,11 @@
 ---
 ## About me
 
-I am a researcher with the Computer Vision Research Team at the National Institute of Advanced Industrial Science and Technology (AIST) [[site]](https://www.airc.aist.go.jp/cvrt/). My research interests include Computer Vision, Vision and Language, and 3D Vision. I am passionate about developing AI systems that can perceive the world and think similarly to humans, with a focus on interpretability.
+I am a Senior Researcher with the Computer Vision Research Team at the National Institute of Advanced Industrial Science and Technology (AIST) [[site]](https://www.airc.aist.go.jp/cvrt/). My research lies at the intersection of computer vision, vision-and-language, and 3D scene understanding. I am particularly interested in developing AI systems that can understand dynamic real-world environments, reason about objects, actions, viewpoints, and scene changes, and describe them in a human-interpretable way.
 
-In addition to my research, I have a strong enthusiasm for language learning. I am a native Chinese speaker, proficient in Japanese and English for communication and academic writing. I can engage in casual conversations in French (DELF B1) and Italian (CELI A2), and I am a beginner learner of Arabic.
+My recent work focuses on visual reasoning from multi-view, 3D, and spatio-temporal observations, including scene change understanding, visual question answering, vision-and-language navigation, and structured representations for complex visual transformations. Through this research, I aim to build AI systems that not only recognize visual patterns but also explain, compare, and reason about the world in a way that is closer to human perception and cognition.
+
+In addition to my research, I have a strong enthusiasm for language learning. I am a native Chinese speaker and proficient in Japanese and English for communication and academic writing. I can also engage in casual conversations in French (DELF B1) and Italian (CILS B1), and I am currently a beginner learner of Arabic.
 
 ---
 ### Work Experience
