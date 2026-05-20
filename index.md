@@ -37,7 +37,7 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 
 ---
 ### Academic Service
-- **Area Chair:** ICPR
+- **Area chair:** ICPR
 - **Reviewer:** CVPR, ICCV, ECCV, NeurIPS, BMVC, IROS, ICPR
 
 ---
