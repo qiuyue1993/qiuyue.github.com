@@ -15,7 +15,9 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 
 ---
 ### Work Experience
-- **Oct, 2021 -- present** Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
+- **Oct, 2025 -- present** Senior Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
+- 
+- **Oct, 2021 -- Sep, 2025** Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
 
 - **Apr, 2021 -- Sep, 2021** Postdoctoral Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
 
@@ -35,7 +37,8 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 
 ---
 ### Reviewer for Conferences
-- CVPR2024, ICCV2023, WACV2023, NeurIPS2022, ECCV2022, CVPR2022, IROS2022, ICPR2022, BMVC2021
+- CVPR, ICCV, ECCV, NeurIPS, BMVC, IROS, ICPR
+- ICPR Area Chair
 
 ---
 ### Selected Publications
@@ -56,11 +59,13 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 
 #### Peer Reviewed Conference Papers
 
-- DailySTR: A Daily Human Activity Pattern Recognition Dataset for Spatio-temporal Reasoning, <u>Yue Qiu</u>, Shusaku Egami, Ken Fukuda, Natsuki Miyata, Takuma Yagi, Kensho Hara, Kenji Iwata, Ryusuke Sagawa, International Conference on Intelligent Robots and Systems (IROS), 2024. (accepted)
+- VideoSetDiff: Identifying and Reasoning Similarities and Differences in Similar Videos, <u>Yue Qiu</u>, Yanjun Sun, Takuma Yagi, Shusaku Egami, Natsuki Miyata, Ken Fukuda, Kensho Hara, Ryusuke Sagawa, International Conference on Computer Vision (ICCV), 2025. [[Paper]]([https://openaccess.thecvf.com/content/CVPR2024/html/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.html](https://openaccess.thecvf.com/content/ICCV2025/html/Qiu_VideoSetDiff_Identifying_and_Reasoning_Similarities_and_Differences_in_Similar_Videos_ICCV_2025_paper.html))
 
-- Subtle-Diff: A Dataset for Precise Recognition of Subtle Differences Among Visually Similar Objects, Fumiya Matsuzawa, <u>Yue Qiu</u>, Yanjun Sun, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh, International Conference on Intelligent Robots and Systems (IROS), 2024. (accepted)
+- DailySTR: A Daily Human Activity Pattern Recognition Dataset for Spatio-temporal Reasoning, <u>Yue Qiu</u>, Shusaku Egami, Ken Fukuda, Natsuki Miyata, Takuma Yagi, Kensho Hara, Kenji Iwata, Ryusuke Sagawa, International Conference on Intelligent Robots and Systems (IROS), 2024. 
 
-- Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, Mariia Khan, <u>Yue Qiu</u>, Yuren Cong, Bodo Rosenhahn, David Suter, Jumana Abu-Khalaf, International Conference on Intelligent Robots and Systems (IROS), 2024. (accepted)
+- Subtle-Diff: A Dataset for Precise Recognition of Subtle Differences Among Visually Similar Objects, Fumiya Matsuzawa, <u>Yue Qiu</u>, Yanjun Sun, Kenji Iwata, Hirokatsu Kataoka, Yutaka Satoh, International Conference on Intelligent Robots and Systems (IROS), 2024. 
+
+- Indoor Scene Change Understanding (SCU): Segment, Describe, and Revert Any Change, Mariia Khan, <u>Yue Qiu</u>, Yuren Cong, Bodo Rosenhahn, David Suter, Jumana Abu-Khalaf, International Conference on Intelligent Robots and Systems (IROS), 2024. 
 
 - The STVchrono Dataset: Towards Continuous Change Recognition in Time, Yanjun Sun\*, <u>Yue Qiu</u>\*, Mariia Khan, Fumiya Matsuzawa, Kenji Iwata; Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024. (*equal contribution) [[Paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Sun_The_STVchrono_Dataset_Towards_Continuous_Change_Recognition_in_Time_CVPR_2024_paper.html)
 
