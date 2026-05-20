@@ -1,8 +1,8 @@
 [[Google Scholar]](https://scholar.google.com/citations?user=JmO9Tn0AAAAJ&hl=zh-CN&oi=sra) [[Github]](https://github.com/qiuyue1993/) 
 
-🏢 Central 1, 1-1-1 Umezono, Tsukuba, Ibaraki 305-8560, JAPAN
+🏢 Address: Central 1, 1-1-1 Umezono, Tsukuba, Ibaraki 305-8560, JAPAN
 
-📧 qiu.yue [at] aist.go.jp
+📧 Email: qiu.yue [at] aist.go.jp
 
 ---
 ## About me
