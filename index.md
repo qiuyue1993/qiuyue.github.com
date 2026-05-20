@@ -4,9 +4,6 @@
 
 📧 qiu.yue [at] aist.go.jp
 
-☎️ 029-861-6442
-
-
 ---
 ## About me
 
