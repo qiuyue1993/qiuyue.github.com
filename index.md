@@ -14,6 +14,13 @@ My recent work focuses on visual reasoning from multi-view, 3D, and spatio-tempo
 In addition to my research, I have a strong enthusiasm for language learning. I am a native Chinese speaker and proficient in Japanese and English for communication and academic writing. I can also engage in casual conversations in French (DELF B1) and Italian (CILS B1), and I am currently a beginner learner of Arabic.
 
 ---
+### Research Internship
+
+I am currently looking for motivated research interns to work on topics related to computer vision, vision-and-language, and 3D scene understanding. Potential topics include scene change understanding, multi-view and 3D visual reasoning, visual question answering, vision-and-language navigation, and spatio-temporal visual understanding.
+
+If you are interested, please feel free to contact me by email with your CV, research interests, and a brief description of your previous research or project experience.
+
+---
 ### Work Experience
 - **Oct, 2025 -- present** Senior Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
 
