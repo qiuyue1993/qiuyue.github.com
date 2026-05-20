@@ -16,7 +16,7 @@ In addition to my research, I have a strong enthusiasm for language learning. I 
 ---
 ### Work Experience
 - **Oct, 2025 -- present** Senior Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
-- 
+
 - **Oct, 2021 -- Sep, 2025** Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
 
 - **Apr, 2021 -- Sep, 2021** Postdoctoral Researcher, Computer Vision Research Team, National Institute of Advanced Industrial Science and Technology
